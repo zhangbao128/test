@@ -17,12 +17,21 @@ namespace test
             InitializeComponent();
         }
     }
-    public class a
+    public class Method
     {
         private int a=0;
-        public int result (int a,int b)
+        public Method()
         {
-            return a+b;
+        }
+
+        public Method(int a)
+        {
+            this.a = a;
+        }
+
+        public int Result (int ac,int bc)
+        {
+            return ac+bc;
         }
     }
 }
