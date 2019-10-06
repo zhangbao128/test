@@ -19,19 +19,21 @@ namespace test
     }
     public class Method
     {
-        private int a=0;
+        private int a ;
+        private int b ;
         public Method()
         {
         }
 
-        public Method(int a)
+        public Method(int a,int b)
         {
             this.a = a;
+            this.b = b;
         }
 
-        public int Result (int ac,int bc)
+        public int Result ()
         {
-            return ac+bc;
+            return a+b;
         }
     }
 }
