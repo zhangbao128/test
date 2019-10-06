@@ -17,4 +17,12 @@ namespace test
             InitializeComponent();
         }
     }
+    public class a
+    {
+        private int a=0;
+        public int result (int a,int b)
+        {
+            return a+b;
+        }
+    }
 }
