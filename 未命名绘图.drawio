@@ -23,8 +23,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-8qmdyV65O0BkZWv2ju7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8qmdyV65O0BkZWv2ju7-2" target="-8qmdyV65O0BkZWv2ju7-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-8qmdyV65O0BkZWv2ju7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-8qmdyV65O0BkZWv2ju7-2" target="-8qmdyV65O0BkZWv2ju7-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="300" as="sourcePoint" />
+            <mxPoint x="340" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="441" y="300" />
+              <mxPoint x="441" y="160" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-8qmdyV65O0BkZWv2ju7-12" value="失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-8qmdyV65O0BkZWv2ju7-11" vertex="1" connectable="0">
           <mxGeometry x="-0.075" y="2" relative="1" as="geometry">
@@ -34,11 +41,24 @@
         <mxCell id="-8qmdyV65O0BkZWv2ju7-2" value="移动到上料区" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="260" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="4d05WlCes_pul3JSnh46-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-8qmdyV65O0BkZWv2ju7-6" target="4d05WlCes_pul3JSnh46-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-8qmdyV65O0BkZWv2ju7-6" value="设置梭车在上料区" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-8qmdyV65O0BkZWv2ju7-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="4d05WlCes_pul3JSnh46-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="4d05WlCes_pul3JSnh46-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4d05WlCes_pul3JSnh46-3" value="设置梭车不在上料区：&lt;div&gt;设置梭车不在下料区&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4d05WlCes_pul3JSnh46-5" value="等待上料臂放&lt;div&gt;置物料&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="550" width="100" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
