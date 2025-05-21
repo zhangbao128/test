@@ -34,7 +34,7 @@
         <mxCell id="-8qmdyV65O0BkZWv2ju7-2" value="移动到上料区" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="260" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-8qmdyV65O0BkZWv2ju7-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="-8qmdyV65O0BkZWv2ju7-6" value="设置梭车在上料区" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-8qmdyV65O0BkZWv2ju7-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
