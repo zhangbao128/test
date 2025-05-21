@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.6">
+  <diagram name="第 1 页" id="w6NTXWHTGnCcxoUcVFE5">
+    <mxGraphModel dx="1205" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-8qmdyV65O0BkZWv2ju7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8qmdyV65O0BkZWv2ju7-1" target="-8qmdyV65O0BkZWv2ju7-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8qmdyV65O0BkZWv2ju7-1" value="设置梭车不在下料区" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8qmdyV65O0BkZWv2ju7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8qmdyV65O0BkZWv2ju7-2" target="-8qmdyV65O0BkZWv2ju7-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="360" />
+              <mxPoint x="310" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8qmdyV65O0BkZWv2ju7-9" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-8qmdyV65O0BkZWv2ju7-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.037" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8qmdyV65O0BkZWv2ju7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-8qmdyV65O0BkZWv2ju7-2" target="-8qmdyV65O0BkZWv2ju7-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8qmdyV65O0BkZWv2ju7-12" value="失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-8qmdyV65O0BkZWv2ju7-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.075" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8qmdyV65O0BkZWv2ju7-2" value="移动到上料区" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-8qmdyV65O0BkZWv2ju7-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-8qmdyV65O0BkZWv2ju7-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
